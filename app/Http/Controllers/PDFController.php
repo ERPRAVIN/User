@@ -11,8 +11,6 @@ use ZipArchive;
 class PDFController extends Controller
 {
 
-
-    
     /**
      * Display a listing of the resource.
      *
